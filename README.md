@@ -1,10 +1,10 @@
-# 🎭 Face Recognition Screen Monitor
+# Face Recognition Screen Monitor
 
 A real-time face detection and recognition system that captures your screen, identifies faces against a known database, and sends email alerts when a match is found.
 
 ---
 
-## 📋 Features
+## Features
 
 - **Live screen capture** — continuously monitors a defined region of your display
 - **Face detection** — locates faces in each captured frame using `face_recognition`
@@ -14,7 +14,7 @@ A real-time face detection and recognition system that captures your screen, ide
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.9
 - [CMake](https://cmake.org/) (required by `dlib`)
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project/
