@@ -1,4 +1,4 @@
-# Face Recognition Screen Monitor
+# Face Recognition Doorbell Monitor
 
 A real-time face doorbell detection and recognition system that captures your screen, identifies faces against a known database, and sends email alerts when a match is found at the door.
 
