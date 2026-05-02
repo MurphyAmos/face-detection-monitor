@@ -14,7 +14,7 @@ A real-time face doorbell detection and recognition system that captures your sc
 
 ---
 
-## Demo 
+## Live System Demo 
 ![Demo](https://github.com/MurphyAmos/face-detection-monitor/blob/main/assets/ezgif.com-optimize.gif)
 
 ---
