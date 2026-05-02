@@ -1,0 +1,6 @@
+numpy
+opencv-python
+mss
+mailtrap
+face-recognition
+dlib
