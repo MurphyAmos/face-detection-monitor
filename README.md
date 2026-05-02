@@ -102,7 +102,7 @@ Face comparison result: No face found
 ---
 
 ## Notes
-
+- This tool is mainly used to monitor my Google Nest Camera. You should change you bounding parameters as that is what it is meant to fit. 
 - The accuracy depends heavily on the quality and variety of images in the `encodings/` folder. Multiple photos per person (different angles, lighting) improve results.
 - The `face_recognition` library is built on top of [dlib](http://dlib.net/) and uses a ResNet model trained on a large dataset of faces.
 - This tool is intended for personal, ethical use cases such as home monitoring or access control on your own property.
