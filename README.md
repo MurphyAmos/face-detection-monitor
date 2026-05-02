@@ -1,6 +1,6 @@
 # Face Recognition Screen Monitor
 
-A real-time face detection and recognition system that captures your screen, identifies faces against a known database, and sends email alerts when a match is found.
+A real-time face doorbell detection and recognition system that captures your screen, identifies faces against a known database, and sends email alerts when a match is found at the door.
 
 ---
 
